@@ -1,0 +1,414 @@
+2024-04-19T08:41:34.344Z info: Database connected
+2024-04-19T08:43:46.836Z info: Database connected
+2024-04-19T08:44:05.170Z info: Database connected
+2024-04-19T08:44:08.611Z info: Database connected
+2024-04-19T08:44:15.337Z info: Database connected
+2024-04-19T08:44:19.333Z info: Database connected
+2024-04-19T08:44:24.145Z info: Database connected
+2024-04-19T08:44:34.423Z info: Database connected
+2024-04-19T08:44:43.016Z info: Database connected
+2024-04-19T08:44:50.887Z info: Database connected
+2024-04-19T08:44:52.716Z info: Database connected
+2024-04-19T08:44:56.627Z info: Database connected
+2024-04-19T08:45:01.825Z info: Database connected
+2024-04-19T08:45:06.084Z info: Database connected
+2024-04-19T08:45:09.730Z info: Database connected
+2024-04-19T08:45:17.185Z info: Database connected
+2024-04-19T08:45:21.271Z info: Database connected
+2024-04-19T08:45:26.304Z info: Database connected
+2024-04-19T08:45:36.815Z info: Database connected
+2024-04-19T08:45:43.274Z info: Received a OPTIONS request for /barang/
+2024-04-19T08:46:42.245Z info: Received a OPTIONS request for /barang/
+2024-04-19T08:46:42.568Z info: Received a OPTIONS request for /barang/
+2024-04-19T08:48:18.041Z info: Received a GET request for /barang?limit=1&page=2
+2024-04-19T08:48:18.044Z error: Invalid token
+2024-04-19T08:48:24.078Z info: Received a POST request for /user/sign-in
+2024-04-19T08:48:27.119Z info: Received a GET request for /barang?limit=1&page=2
+2024-04-19T08:48:27.120Z error: Invalid token
+2024-04-19T08:49:29.179Z info: Received a GET request for /barang?limit=1&page=2
+2024-04-19T08:49:29.182Z error: Invalid token
+2024-04-19T08:49:58.723Z info: Received a GET request for /barang?limit=1&page=2
+2024-04-19T08:49:58.724Z error: Invalid token
+2024-04-19T08:50:02.819Z info: Received a GET request for /barang?limit=1&page=2
+2024-04-19T08:50:13.593Z info: Received a GET request for /barang
+2024-04-19T08:50:28.617Z info: Received a GET request for /barang?id=i660b90f55a9e1ecf16358b96
+2024-04-19T08:50:28.618Z error: Invalid token
+2024-04-19T08:50:39.652Z info: Received a GET request for /barang
+2024-04-19T08:51:37.702Z info: Received a OPTIONS request for /user/sign-in
+2024-04-19T08:51:56.594Z info: Received a OPTIONS request for /user/sign-in
+2024-04-19T08:52:33.266Z info: Received a OPTIONS request for /user/sign-in
+2024-04-19T09:00:27.729Z info: Database connected
+2024-04-19T09:00:36.427Z info: Database connected
+2024-04-19T09:07:53.950Z info: Received a POST request for /customer
+2024-04-19T09:08:15.282Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:08:29.752Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:08:39.758Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:08:50.139Z info: Received a GET request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:08:51.460Z info: Received a GET request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:09:21.787Z info: Received a GET request for /customer
+2024-04-19T09:09:31.638Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:11:25.327Z info: Database connected
+2024-04-19T09:11:29.240Z info: Received a GET request for /customer
+2024-04-19T09:11:35.112Z info: Received a GET request for /customer
+2024-04-19T09:11:39.713Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:11:56.213Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:11:56.286Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:12:43.574Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:12:54.003Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:12:54.288Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:14:02.228Z info: Database connected
+2024-04-19T09:14:17.460Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:14:25.250Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:14:36.824Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:14:41.249Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:14:41.317Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:14:49.822Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:15:00.814Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:15:00.885Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:15:01.223Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:15:01.275Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:15:08.319Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:15:17.935Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:15:17.988Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:16:33.075Z info: Received a POST request for /customer?Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhdHJpY2lheWFoeWFAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoiUGF0cmljaWEiLCJsYXN0TmFtZSI6IllhaHlhIiwiaWF0IjoxNzEzNTE2NTA0LCJleHAiOjE3MTM1MjM3MDR9.m5KAkGsgmLOaeZn0TQjeF4Ca5Sw-oVKHRDOO6rBd4Ss
+2024-04-19T09:16:33.142Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:16:50.093Z info: Received a POST request for /customer
+2024-04-19T09:16:50.144Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:16:52.895Z info: Received a POST request for /customer
+2024-04-19T09:16:52.944Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:16:55.752Z info: Received a GET request for /customer
+2024-04-19T09:17:09.338Z info: Received a POST request for /customer
+2024-04-19T09:17:09.394Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-19T09:18:45.514Z info: Received a OPTIONS request for /user/sign-in
+2024-04-19T12:16:40.902Z info: Database connected
+2024-04-19T12:17:29.298Z info: Received a POST request for /order
+2024-04-19T12:17:49.090Z info: Received a POST request for /order
+2024-04-19T12:17:49.094Z error: Invalid token
+2024-04-19T12:18:08.832Z info: Received a POST request for /order
+2024-04-19T12:18:08.833Z error: Invalid token
+2024-04-19T12:18:12.588Z info: Received a POST request for /user/sign-in
+2024-04-19T12:18:31.872Z info: Received a POST request for /order
+2024-04-19T12:22:58.835Z info: Database connected
+2024-04-19T12:23:02.764Z info: Received a GET request for /order
+2024-04-19T12:23:02.803Z error: OrderSearch is not defined
+2024-04-19T12:23:21.245Z info: Received a GET request for /order
+2024-04-19T12:23:21.272Z error: OrderSearch is not defined
+2024-04-19T12:30:48.150Z info: Database connected
+2024-04-19T12:30:50.331Z info: Received a GET request for /barang
+2024-04-19T12:30:50.335Z error: Invalid token
+2024-04-19T12:30:57.084Z info: Received a POST request for /user/sign-in
+2024-04-19T12:31:02.975Z info: Received a GET request for /barang
+2024-04-19T12:31:02.977Z error: Invalid token
+2024-04-19T12:31:19.614Z info: Received a GET request for /barang
+2024-04-19T12:31:33.767Z info: Received a GET request for /customer
+2024-04-19T12:31:42.462Z info: Received a GET request for /order
+2024-04-19T12:31:42.505Z error: OrderSearch is not defined
+2024-04-19T12:33:31.516Z info: Database connected
+2024-04-19T12:33:34.765Z info: Received a GET request for /order
+2024-04-19T12:33:34.805Z error: OrderFilter is not defined
+2024-04-19T12:33:36.641Z info: Received a GET request for /order
+2024-04-19T12:33:36.670Z error: OrderFilter is not defined
+2024-04-19T12:33:50.423Z info: Database connected
+2024-04-19T12:33:57.902Z info: Database connected
+2024-04-19T12:34:00.367Z info: Database connected
+2024-04-19T12:34:03.460Z info: Database connected
+2024-04-19T12:34:04.397Z info: Received a GET request for /order
+2024-04-19T12:34:04.437Z error: Pagination is not defined
+2024-04-19T12:34:27.237Z info: Database connected
+2024-04-19T12:34:35.976Z info: Database connected
+2024-04-19T12:34:38.318Z info: Received a GET request for /order
+2024-04-19T12:34:38.356Z error: model.clone is not a function
+2024-04-19T12:37:03.814Z info: Database connected
+2024-04-19T12:37:07.299Z info: Received a GET request for /order
+2024-04-19T12:40:03.474Z info: Received a OPTIONS request for /barang/?limit=2
+2024-04-19T13:00:35.347Z info: Database connected
+2024-04-19T13:00:45.554Z info: Database connected
+2024-04-19T13:01:00.050Z info: Database connected
+2024-04-19T13:01:25.140Z info: Database connected
+2024-04-19T13:02:00.112Z info: Database connected
+2024-04-19T13:02:09.402Z info: Database connected
+2024-04-19T13:02:47.181Z info: Database connected
+2024-04-19T13:02:51.683Z info: Database connected
+2024-04-19T13:03:12.206Z info: Database connected
+2024-04-19T13:03:28.003Z info: info
+2024-04-19T13:03:40.882Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:03:46.210Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:04:18.647Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:04:37.861Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:04:42.494Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:05:49.907Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:05:58.952Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:08:07.197Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:12:19.919Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:12:19.920Z error: Token is required for authentication
+2024-04-19T13:12:28.987Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:29.101Z error: Password salah.
+2024-04-19T13:12:29.592Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:29.683Z error: Password salah.
+2024-04-19T13:12:30.055Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:30.145Z error: Password salah.
+2024-04-19T13:12:42.040Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:42.541Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:42.727Z info: Received a POST request for /user/sign-in
+2024-04-19T13:12:56.103Z info: Received a POST request for /user/sign-in
+2024-04-19T13:13:06.266Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:13:06.267Z error: Invalid token
+2024-04-19T13:14:28.185Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:14:28.186Z error: Invalid token
+2024-04-19T13:14:41.132Z info: Received a POST request for /user/sign-in
+2024-04-19T13:14:52.806Z info: Received a GET request for /barang/?limit=2&search=BRG001
+2024-04-19T13:14:52.807Z error: Invalid token
+2024-04-19T13:14:54.037Z info: Received a POST request for /user/sign-in
+2024-04-19T13:14:56.164Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:14:56.164Z error: Invalid token
+2024-04-19T13:14:57.651Z info: Received a POST request for /user/sign-in
+2024-04-19T13:15:34.555Z info: Received a POST request for /barang/
+2024-04-19T13:15:34.555Z error: Invalid token
+2024-04-19T13:15:35.698Z info: Received a POST request for /user/sign-in
+2024-04-19T13:15:36.932Z info: Received a POST request for /barang/
+2024-04-19T13:15:36.933Z error: Invalid token
+2024-04-19T13:15:38.642Z info: Received a POST request for /user/sign-in
+2024-04-19T13:15:52.575Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:15:52.575Z error: Invalid token
+2024-04-19T13:15:54.294Z info: Received a POST request for /user/sign-in
+2024-04-19T13:16:39.490Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:16:59.723Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:17:44.804Z info: Received a GET request for /order/?limit=2
+2024-04-19T13:17:44.805Z error: Invalid token
+2024-04-19T13:17:45.863Z info: Received a POST request for /user/sign-in
+2024-04-19T13:17:56.655Z info: Received a GET request for /barang/?limit=2
+2024-04-19T13:17:56.656Z error: Invalid token
+2024-04-19T13:18:05.901Z info: Received a POST request for /user/sign-in
+2024-04-19T13:18:20.931Z info: Received a POST request for /barang/
+2024-04-19T13:18:20.932Z error: Invalid token
+2024-04-19T13:18:22.455Z info: Received a POST request for /user/sign-in
+2024-04-19T13:19:34.829Z info: Berhasil terhubung ke database mongoDB
+2024-04-19T13:25:17.966Z info: Received a GET request for /customer/$%7Bstate._id%7D
+2024-04-19T13:25:17.967Z error: Token is required for authentication
+2024-04-19T13:25:18.015Z info: Received a GET request for /favicon.ico
+2024-04-19T13:25:44.788Z info: Received a POST request for /barang/
+2024-04-19T13:25:44.789Z error: Invalid token
+2024-04-19T13:25:45.840Z info: Received a POST request for /user/signin/
+2024-04-19T13:25:46.823Z info: Received a POST request for /user/signin/
+2024-04-19T13:25:47.572Z info: Received a POST request for /user/signin/
+2024-04-19T13:25:47.953Z info: Received a POST request for /user/signin/
+2024-04-19T13:25:53.139Z info: Received a POST request for /user/signin/
+2024-04-19T13:26:02.917Z info: Received a POST request for /user/signin/
+2024-04-19T13:27:21.564Z info: Received a POST request for /user/sign-in
+2024-04-19T13:27:29.167Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:27:46.701Z info: Received a POST request for /barang/
+2024-04-19T13:27:46.702Z error: Invalid token
+2024-04-19T13:28:54.431Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:28:55.619Z info: Received a POST request for /barang
+2024-04-19T13:28:55.620Z error: Invalid token
+2024-04-19T13:28:57.593Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:28:58.878Z info: Received a POST request for /barang
+2024-04-19T13:28:58.878Z error: Invalid token
+2024-04-19T13:29:16.476Z info: Received a GET request for /barang
+2024-04-19T13:29:18.799Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:29:20.349Z info: Received a POST request for /barang
+2024-04-19T13:29:20.349Z error: Invalid token
+2024-04-19T13:29:22.261Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:29:34.903Z info: Received a GET request for /barang
+2024-04-19T13:29:39.006Z info: Received a POST request for /barang
+2024-04-19T13:29:39.006Z error: Invalid token
+2024-04-19T13:29:40.196Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:29:41.238Z info: Received a POST request for /barang
+2024-04-19T13:29:41.238Z error: Invalid token
+2024-04-19T13:29:42.203Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:29:44.130Z info: Received a POST request for /barang
+2024-04-19T13:29:44.131Z error: Invalid token
+2024-04-19T13:29:50.849Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:30:14.985Z info: Received a POST request for /barang
+2024-04-19T13:30:14.985Z error: Invalid token
+2024-04-19T13:30:19.942Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:34:09.492Z info: Received a POST request for /barang
+2024-04-19T13:34:09.493Z error: Invalid token
+2024-04-19T13:34:10.573Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:59:13.490Z info: Received a POST request for /barang
+2024-04-19T13:59:13.491Z error: Invalid token
+2024-04-19T13:59:14.588Z info: Received a POST request for /user/sign-in/
+2024-04-19T13:59:27.080Z info: Received a POST request for /barang
+2024-04-19T13:59:27.081Z error: Invalid token
+2024-04-19T13:59:28.934Z info: Received a POST request for /user/sign-in/
+2024-04-19T14:00:48.136Z info: Received a POST request for /barang
+2024-04-19T14:00:48.137Z error: Invalid token
+2024-04-19T14:00:51.333Z info: Received a POST request for /user/sign-in/
+2024-04-19T14:03:09.902Z info: Received a POST request for /barang/
+2024-04-19T14:03:09.903Z error: Invalid token
+2024-04-19T14:03:14.641Z info: Received a POST request for /user/sign-in/
+2024-04-19T14:03:32.285Z info: Received a POST request for /barang
+2024-04-19T14:03:36.304Z info: Received a POST request for /barang/
+2024-04-19T14:03:36.304Z error: Invalid token
+2024-04-19T14:22:07.428Z info: Received a GET request for /order/?limit=2
+2024-04-19T14:22:07.429Z error: Invalid token
+2024-04-19T14:22:19.332Z info: Received a POST request for /user/sign-in/
+2024-04-19T14:24:34.606Z info: Received a GET request for /barang/by-nomor/$%7BnomorBarang.current.value%7D
+2024-04-19T14:31:56.697Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:31:57.940Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:31:58.771Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:31:59.508Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:31:59.891Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:32:00.083Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:32:00.242Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:32:00.434Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:32:00.596Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:32:00.916Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:53.982Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:54.140Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:54.330Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:54.522Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:54.714Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:54.874Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:55.067Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:33:55.226Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-19T14:34:09.781Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:10.450Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:10.931Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:11.154Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:11.349Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:11.602Z info: Received a GET request for /barang/by-nomor/BRG-001
+2024-04-19T14:34:14.003Z info: Received a GET request for /barang/by-nomor/BRG004
+2024-04-19T14:34:14.612Z info: Received a GET request for /barang/by-nomor/BRG004
+2024-04-19T14:34:14.866Z info: Received a GET request for /barang/by-nomor/BRG004
+2024-04-22T09:06:12.523Z info: Berhasil terhubung ke database mongoDB
+2024-04-22T09:06:36.535Z info: Received a POST request for /user/sign-in/
+2024-04-22T09:06:45.106Z info: Received a GET request for /barang/?limit=2&search=BRG001%5C
+2024-04-22T09:06:45.108Z error: Invalid token
+2024-04-22T09:06:48.379Z info: Received a POST request for /user/sign-in/
+2024-04-22T09:06:49.931Z info: Received a GET request for /barang/?limit=2&search=BRG001
+2024-04-22T09:06:49.933Z error: Invalid token
+2024-04-22T09:07:06.798Z info: Received a POST request for /user/sign-in/
+2024-04-22T09:07:28.268Z info: Received a GET request for /barang/?limit=2&search=BRG001
+2024-04-22T09:07:28.270Z error: Invalid token
+2024-04-22T09:07:58.955Z info: Received a POST request for /user/sign-in/
+2024-04-22T09:08:06.177Z info: Received a GET request for /barang/?limit=2&search=BRG001
+2024-04-22T09:08:06.178Z error: Invalid token
+2024-04-23T06:31:20.557Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:31:31.841Z info: Received a GET request for /order/?limit=2
+2024-04-23T06:31:39.253Z info: Received a POST request for /user/signin/
+2024-04-23T06:31:40.438Z info: Received a POST request for /user/signin/
+2024-04-23T06:32:24.635Z info: Received a POST request for /user/signin/
+2024-04-23T06:32:31.089Z info: Received a POST request for /user/sign-in
+2024-04-23T06:32:31.118Z error: Email tidak terdaftar.
+2024-04-23T06:32:46.040Z info: Received a POST request for /user/sign-in
+2024-04-23T06:32:46.083Z error: Email tidak terdaftar.
+2024-04-23T06:32:49.522Z info: Received a POST request for /user/sign-in
+2024-04-23T06:32:51.608Z info: Received a POST request for /user/signin/
+2024-04-23T06:32:52.345Z info: Received a POST request for /user/signin/
+2024-04-23T06:32:58.465Z info: Received a POST request for /user/signin/
+2024-04-23T06:33:00.189Z info: Received a GET request for /order/?limit=2
+2024-04-23T06:33:00.190Z error: Token is required for authentication
+2024-04-23T06:33:05.662Z info: Received a POST request for /user/signin/
+2024-04-23T06:33:32.993Z info: Received a POST request for /user/signin/
+2024-04-23T06:34:26.401Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:34:29.596Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:34:33.531Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:34:45.726Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:35:13.642Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:35:15.710Z info: Received a POST request for /user/signin/
+2024-04-23T06:35:21.132Z info: Received a GET request for /barang/?limit=2
+2024-04-23T06:35:21.837Z info: Received a GET request for /customer/?limit=2
+2024-04-23T06:35:22.454Z info: Received a GET request for /order/?limit=2
+2024-04-23T06:35:25.677Z info: Received a GET request for /barang/?limit=2
+2024-04-23T06:35:38.621Z info: Received a POST request for /barang/
+2024-04-23T06:35:38.662Z error: E11000 duplicate key error collection: test.barangs index: nomor_1 dup key: { nomor: "BRG003" }
+2024-04-23T06:35:56.758Z info: Received a POST request for /barang/
+2024-04-23T06:35:56.819Z info: Received a GET request for /barang/?limit=2
+2024-04-23T06:35:59.423Z info: Received a GET request for /customer/?limit=2
+2024-04-23T06:36:01.388Z info: Received a GET request for /order/?limit=2
+2024-04-23T06:36:14.936Z info: Received a GET request for /customer/by-nomor/CST008
+2024-04-23T06:36:19.985Z info: Received a GET request for /barang/by-nomor/BRG111
+2024-04-23T06:36:21.371Z info: Received a POST request for /order
+2024-04-23T06:36:21.397Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:36:29.526Z info: Received a POST request for /order
+2024-04-23T06:36:29.552Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:36:31.389Z info: Received a POST request for /order
+2024-04-23T06:36:31.412Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:36:40.088Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-23T06:36:42.490Z info: Received a POST request for /order
+2024-04-23T06:36:42.523Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:36:50.414Z info: Received a POST request for /order
+2024-04-23T06:36:50.446Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:10.095Z info: Received a POST request for /order
+2024-04-23T06:37:10.125Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:10.258Z info: Received a POST request for /order
+2024-04-23T06:37:10.285Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:14.404Z info: Received a POST request for /order
+2024-04-23T06:37:14.431Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:15.129Z info: Received a POST request for /order
+2024-04-23T06:37:15.156Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:18.365Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-23T06:37:18.620Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-23T06:37:18.811Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-23T06:37:19.067Z info: Received a GET request for /barang/by-nomor/BRG001
+2024-04-23T06:37:19.723Z info: Received a POST request for /order
+2024-04-23T06:37:19.756Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:22.889Z info: Received a POST request for /order
+2024-04-23T06:37:22.915Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:23.079Z info: Received a POST request for /order
+2024-04-23T06:37:23.107Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:23.295Z info: Received a POST request for /order
+2024-04-23T06:37:23.321Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:23.451Z info: Received a POST request for /order
+2024-04-23T06:37:23.482Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:23.587Z info: Received a POST request for /order
+2024-04-23T06:37:23.612Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:27.074Z info: Received a POST request for /order
+2024-04-23T06:37:27.098Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:27.251Z info: Received a POST request for /order
+2024-04-23T06:37:27.277Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:27.455Z info: Received a POST request for /order
+2024-04-23T06:37:27.524Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:37:38.926Z info: Received a POST request for /order
+2024-04-23T06:37:38.953Z error: Total tidak valid, permintaan ditolak untuk diproses!
+2024-04-23T06:40:06.449Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:40:12.591Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:40:20.119Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:40:26.018Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:40:41.859Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:40:50.946Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:11.426Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:17.874Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:22.233Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:25.810Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:32.168Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:36.088Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:42:38.824Z info: Received a POST request for /order
+2024-04-23T06:42:38.991Z info: Received a GET request for /order/?limit=2
+2024-04-23T06:42:45.850Z info: Received a GET request for /customer/?limit=2
+2024-04-23T06:43:07.538Z info: Received a POST request for /customer
+2024-04-23T06:43:07.547Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:43:08.977Z info: Received a POST request for /customer
+2024-04-23T06:43:08.981Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:43:10.410Z info: Received a POST request for /customer
+2024-04-23T06:43:10.414Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:43:10.599Z info: Received a POST request for /customer
+2024-04-23T06:43:10.603Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:43:34.775Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:43:39.458Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:43:49.487Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:43:57.002Z info: Berhasil terhubung ke database mongoDB
+2024-04-23T06:43:58.873Z info: Received a POST request for /customer
+2024-04-23T06:43:58.888Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:43:59.938Z info: Received a POST request for /customer
+2024-04-23T06:43:59.943Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:44:00.478Z info: Received a POST request for /customer
+2024-04-23T06:44:00.482Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:44:11.376Z info: Received a GET request for /customer
+2024-04-23T06:44:11.377Z error: Token is required for authentication
+2024-04-23T06:44:11.415Z info: Received a GET request for /favicon.ico
+2024-04-23T06:44:33.885Z info: Received a POST request for /customer
+2024-04-23T06:44:33.929Z error: E11000 duplicate key error collection: test.customers index: id_1 dup key: { id: null }
+2024-04-23T06:44:41.152Z info: Received a POST request for /customer
+2024-04-23T06:44:41.156Z error: Customer validation failed: alamat: Path `alamat` (`Sinbad`) is shorter than the minimum allowed length (11).
+2024-04-23T06:45:32.408Z info: Received a GET request for /customer/?limit=2
+2024-04-23T06:45:33.301Z info: Received a GET request for /barang/?limit=2
+2024-04-23T06:45:50.032Z info: Received a POST request for /barang/
+2024-04-23T06:45:50.064Z error: E11000 duplicate key error collection: test.barangs index: nomor_1 dup key: { nomor: "BRG004" }
+2024-04-23T06:45:51.542Z info: Received a POST request for /barang/
+2024-04-23T06:45:51.572Z error: E11000 duplicate key error collection: test.barangs index: nomor_1 dup key: { nomor: "BRG004" }
+2024-04-23T06:45:59.926Z info: Received a POST request for /barang/
+2024-04-23T06:45:59.970Z error: E11000 duplicate key error collection: test.barangs index: nomor_1 dup key: { nomor: "BRG004" }
+2024-04-23T06:46:24.363Z info: Received a POST request for /barang/
+2024-04-23T06:46:24.421Z info: Received a GET request for /barang/?limit=2
